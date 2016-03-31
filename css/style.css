@@ -713,10 +713,13 @@ a {
   line-height: 30px;
 }
 .duoshuo {
-  padding: 0 40px;
+  padding: 1px 40px;
 }
 #disqus_thread {
   padding: 0 40px;
+}
+.share_jia {
+  padding: 1px 30px;
 }
 .archives-wrap {
   position: relative;
